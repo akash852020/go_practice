@@ -1,3 +1,2 @@
-# go_practice
-<br>
-author - abczr
+# Restful Api using GOLang
+
